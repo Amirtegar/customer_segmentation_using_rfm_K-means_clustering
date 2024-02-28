@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import altair as alt
 
 # Membaca data dari CSV
-file_path = "C:/Users/user/PycharmProjects/streamlit/SaaS-Sales.csv"
+file_path = "Customer Segmentation/SaaS-Sales.csv"
 
 # Membaca file CSV
 saas = pd.read_csv(file_path)
