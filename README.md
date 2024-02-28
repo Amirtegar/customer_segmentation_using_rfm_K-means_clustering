@@ -1,1 +1,1 @@
-# customer_segmentation_using_rfm_K-means_clustering
+# customer_segmentation_using_rfm_k-means_clustering
